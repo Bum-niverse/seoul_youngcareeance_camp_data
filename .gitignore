@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+data/*.csv
+data/*.tsv
+!data/README.md
+
+outputs/
+
+.DS_Store
+Thumbs.db
+
