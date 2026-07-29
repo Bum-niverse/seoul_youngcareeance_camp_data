@@ -1,8 +1,15 @@
 # Seoul Young Careeance Camp - Bank Marketing Data Analysis
 
-서울 영커리언스 캠프 DATA_B 과제로 진행한 은행 정기예금 마케팅 데이터 탐색 분석(EDA) 저장소입니다.
+서울 영커리언스 캠프 DATA_B 과제로 진행한 은행 정기예금 마케팅 데이터 분석 저장소입니다.
 
-분석 목표는 모든 고객에게 동일하게 연락하는 대신, 정기예금 가입 가능성이 높은 고객군과 효율적인 연락 방식을 찾는 것입니다.
+1차 과제에서는 가입 가능성이 높은 고객군을 탐색했고, 2차 과제에서는 핵심 타겟 밖의 잠재고객, 고객별 실행 전략, A/B 테스트, 평가지표, 데이터 수집 계획과 머신러닝 확장까지 정리했습니다.
+
+## 주차별 과제
+
+| 구분 | 주제 | 문서 | 발표 자료 |
+|---|---|---|---|
+| 1차 과제 | 가입 가능성이 높은 고객 특성 분석 | [분석 보고서](docs/analysis_report.md) | [PPT](docs/presentation/DATA_B_김범수_1차과제.pptx) |
+| 2차 과제 | 타겟 추가 설정과 각 고객별 전략 | [상세 정리](week2/README.md) | [PPT](week2/presentation/DATA_B_김범수_2차과제_최종본.pptx) · [발표 대본](week2/script/DATA_B_김범수_2차과제_발표대본.docx) |
 
 ## 핵심 결과
 
@@ -52,6 +59,13 @@
 │   ├── analysis_report.md
 │   └── presentation/
 │       └── DATA_B_김범수_1차과제.pptx
+├── week2/
+│   ├── README.md
+│   ├── presentation/
+│   │   └── DATA_B_김범수_2차과제_최종본.pptx
+│   └── script/
+│       ├── DATA_B_김범수_2차과제_발표대본.docx
+│       └── DATA_B_김범수_2차과제_발표대본.txt
 ├── data/
 │   └── README.md
 ├── outputs/                 # 분석 표 실행 시 생성
