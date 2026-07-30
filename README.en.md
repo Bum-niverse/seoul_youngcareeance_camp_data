@@ -1,4 +1,4 @@
-# Seoul Young Career Experience Camp — Bank Marketing Analysis
+# Seoul Bank Marketing Analysis
 
 Exploratory data analysis completed for the DATA_B assignment of the Seoul Young Career Experience Camp.
 
