@@ -1,4 +1,4 @@
-# Seoul Young Careeance Camp - Bank Marketing Data Analysis
+# Seoul Bank Marketing Analysis
 
 [English](README.en.md)
 
