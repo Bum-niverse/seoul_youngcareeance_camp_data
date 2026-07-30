@@ -1,5 +1,7 @@
 # Seoul Young Careeance Camp - Bank Marketing Data Analysis
 
+[English](README.en.md)
+
 서울 영커리언스 캠프 DATA_B 과제로 진행한 은행 정기예금 마케팅 데이터 탐색 분석(EDA) 저장소입니다.
 
 분석 목표는 모든 고객에게 동일하게 연락하는 대신, 정기예금 가입 가능성이 높은 고객군과 효율적인 연락 방식을 찾는 것입니다.
